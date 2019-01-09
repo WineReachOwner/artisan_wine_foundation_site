@@ -1,2 +1,2 @@
-# artisan_wine_foundation_site
+# AWFS
 Artisan Wine Foundation (Advancing the Craft of Artisan Wine)
